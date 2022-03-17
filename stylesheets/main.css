@@ -1,0 +1,44 @@
+h1 {
+  background: rgb(169,0,0);
+  padding: 20px;
+  font-size: 36px;
+  font-weight: bold;
+  color: white
+}
+
+h5 {
+  text-align: right;
+  color: white;
+  background-color: rgb(68, 68, 68);
+  font-size: 20px
+}
+
+aside {
+  text-align: left;
+  float: right;
+  width: 25%;
+
+}
+
+.sidepic {
+  width: 90%;
+}
+
+h3 {
+  padding-top: 10px;
+  text-align: left;
+  font-weight: bold;
+}
+
+
+p {
+  font-size: 10px;
+  padding-top: 10px;
+}
+
+footer {
+  background-color: rgb(68, 68, 68);
+  color: white;
+  padding: 15px;
+  font-size: 10px;
+}
